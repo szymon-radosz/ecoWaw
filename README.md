@@ -13,16 +13,16 @@ Recycling unwanted stuff, get points and turn them into discounts. It's a native
 
 ## Screenshots
 
-![Alt text](/screens/screen1.png)
-![Alt text](/screens/screen2.png)
-![Alt text](/screens/screen3.png)
-![Alt text](/screens/screen4.png)
-![Alt text](/screens/screen5.png)
-![Alt text](/screens/screen6.png)
-![Alt text](/screens/screen7.png)
-![Alt text](/screens/screen8.png)
-![Alt text](/screens/screen9.png)
-![Alt text](/screens/screen10.png)
+![Alt text](/screens/screen1.png =350x)
+![Alt text](/screens/screen2.png =350x)
+![Alt text](/screens/screen3.png =350x)
+![Alt text](/screens/screen4.png =350x)
+![Alt text](/screens/screen5.png =350x)
+![Alt text](/screens/screen6.png =350x)
+![Alt text](/screens/screen7.png =350x)
+![Alt text](/screens/screen8.png =350x)
+![Alt text](/screens/screen9.png =350x)
+![Alt text](/screens/screen10.png =350x)
 
 ## License
 
